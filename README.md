@@ -22,7 +22,9 @@ The dataset was cleaned and analyzed using Excel features such as pivot tables, 
 
 ## Files in This Repository
 
-amazon_sales_analysis.xlsx – Full Excel workbook containing the cleaned dataset, pivot tables, and dashboard.
+* amazon_sales_analysis.xlsx – Full Excel workbook containing the cleaned dataset, pivot tables, and dashboard.
+* Dashboard.png containing the dashboard sheet
+* Insights.png containing the insights sheet 
 
 ## Key Insights
 
